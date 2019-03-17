@@ -100,42 +100,6 @@
         1,
         null
       ],
-      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/child.rb": [
-        1,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        1,
-        null,
-        3,
-        null,
-        null,
-        3,
-        null,
-        2,
-        null
-      ],
-      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/chore.rb": [
-        1,
-        null,
-        null
-      ],
       "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/controllers/children_controller.rb": [
         1,
         1,
@@ -210,6 +174,61 @@
         1,
         0,
         null,
+        null
+      ],
+      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/child.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        3,
+        null,
+        null,
+        null,
+        3,
+        2,
+        null
+      ],
+      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/task.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        3,
+        2,
+        null
+      ],
+      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/chore.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        2,
         null
       ],
       "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/controllers/tasks_controller.rb": [
@@ -287,17 +306,40 @@
         0,
         null,
         null
-      ],
-      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/task.rb": [
-        0,
-        null,
-        0
       ]
     },
-    "timestamp": 1552738196
+    "timestamp": 1552812042
   },
   "Unit Tests": {
     "coverage": {
+      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/child.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        3,
+        null,
+        null,
+        null,
+        3,
+        2,
+        null,
+        1,
+        6,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
       "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/task.rb": [
         1,
         null,
@@ -313,19 +355,8 @@
         2,
         null
       ],
-      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
       "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/chore.rb": [
         1,
-        1,
-        1,
-        null
-      ],
-      "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/models/child.rb": [
-        1,
         null,
         1,
         1,
@@ -333,14 +364,26 @@
         null,
         1,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        3,
+        2,
+        2,
+        5,
+        2,
+        2,
+        null,
+        1,
+        2,
         1,
         null,
-        0,
-        null,
-        null,
-        null,
         1,
-        1,
+        null,
+        null,
         null
       ],
       "/home/ubuntu/workspace/Labs/Lab5/ChoreTracker/app/helpers/application_helper.rb": [
@@ -595,6 +638,6 @@
         0
       ]
     },
-    "timestamp": 1552743542
+    "timestamp": 1552838753
   }
 }
